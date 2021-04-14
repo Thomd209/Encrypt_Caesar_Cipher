@@ -1,6 +1,3 @@
-# The program that encrypts text using Caesar Cipher
-
-
 def encrypt_caesar_cipher(s, n):
     alphabet_big_ru = 'АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ'
     alphabet_small_ru = 'абвгдежзийклмнопрстуфхцчшщъыьэюя'
